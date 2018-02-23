@@ -1,0 +1,24 @@
+{
+  "name": "josso_t-js-td1",
+  "version": "1.0.0",
+  "description": "EPIPIC - premier td Javascript MTI 2018",
+  "main": "index.js",
+  "repository": {
+    "private": true
+  },
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "express-minify": "^0.2.0",
+    "fs": "0.0.1-security",
+    "json": "^9.0.6",
+    "nodemon": "^1.11.0",
+    "yarn": "^0.22.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon javascript/index.js"
+  },
+  "author": "josso_t",
+  "license": "ISC"
+}
